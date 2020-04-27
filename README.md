@@ -1,3 +1,9 @@
+# Simple Weather Display App.
+
+Attempt to combine a few moving parts and libs to form a basic weather search app.
+
+=======
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
